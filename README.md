@@ -1,16 +1,15 @@
-## Hi there 👋
+# Avinash
 
-<!--
-**avin-cyborg/avin-cyborg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build production-grade systems out of curiosity.
 
-Here are some ideas to get you started:
+Somewhere between structured engineering and vibecoding — I explore ideas fast, then push the ones that matter until they hold up in real-world conditions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏗️ Current Work  
+- **AI turing test** — real-time decision benchmarking  
+- **Automation Systems** — high-throughput WhatsApp data pipelines
+
+## 🔭 Upcoming Work
+- **The Matrix** — autonomous AI systems experimenting with self-building software
+
+## 🧪 Focus Areas
+AI/ML · Backend Systems · Automation · Scalable Architectures
