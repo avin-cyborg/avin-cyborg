@@ -1,15 +1,15 @@
-# Avinash
+Avinash
 
 I build production-grade systems out of curiosity.
 
-Somewhere between structured engineering and vibecoding — I explore ideas fast, then push the ones that matter until they hold up in real-world conditions.
+I move fast on ideas, and double down on the ones that survive real-world use. Somewhere between structured engineering and vibecoding.
 
-## 🏗️ Current Work  
-- **AI turing test** — real-time decision benchmarking  
-- **Automation Systems** — high-throughput WhatsApp data pipelines
+🏗️ Current Work
+- AI Turing Test — benchmarking real-time decision-making
+- Automation Systems — WhatsApp data pipelines at scale
 
-## 🔭 Upcoming Work
-- **The Matrix** — autonomous AI systems experimenting with self-building software
+🔭 Upcoming
+- The Matrix — autonomous systems that build and evolve software
 
-## 🧪 Focus Areas
+🧪 Focus
 AI/ML · Backend Systems · Automation · Scalable Architectures
