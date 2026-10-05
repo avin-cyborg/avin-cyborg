@@ -25,7 +25,7 @@
 
 ### 🌾 RAW — Agricultural WhatsApp Automation
 
-An AI-powered bot that turns raw WhatsApp crop offers into structured, translated updates for buyers. Deployed locally and used by **1,000+ agricultural brokers across Telangana**.
+An AI-powered bot that turns raw WhatsApp crop offers into structured, translated updates for buyers. Deployed locally and used by **1,00+ agricultural brokers across Telangana**.
 
 **✨ Key Features**
 
@@ -49,7 +49,7 @@ An AI-powered bot that turns raw WhatsApp crop offers into structured, translate
 
 A platform for studying how language models make sequential decisions through competitive chess. Compares LLMs with Stockfish to investigate decision quality, rule compliance, and consistency.
 
-**✨ Key Features**
+** Key Features**
 
 - Matches AI players from multiple providers against each other or Stockfish.
 - Uses modular adapters for Gemini, OpenAI, and Claude.
@@ -77,7 +77,7 @@ A platform for studying how language models make sequential decisions through co
 
 An experimental system exploring how AI agents can coordinate software development. A shared orchestrator brings management, development, and QA agents together around a user task.
 
-**✨ Current Structure**
+** Current Structure**
 
 - Separate agents for management, development, and quality assurance.
 - An orchestration layer to coordinate the workflow.
