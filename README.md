@@ -1,6 +1,6 @@
 <!-- Profile: avin-cyborg/avin-cyborg -->
 <p align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Avinash — AI Builder, Backend Developer, Automation" />
+  <img src="./assets/banner.svg" width="100%" alt="Avinash — animated 3D cube, AI, systems and automation" />
 </p>
 
 <h1 align="center">Hi, I'm Avinash 👋</h1>
@@ -179,5 +179,5 @@ An experimental system exploring how AI agents can coordinate software developme
 </p>
 
 <p align="center">
-  <img src="./assets/footer.svg" width="100%" alt="" />
+  <img src="./assets/footer.svg" width="100%" alt="Stay curious. Keep building. — animated signal paths" />
 </p>
